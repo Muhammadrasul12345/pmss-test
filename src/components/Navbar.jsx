@@ -24,7 +24,7 @@ const Navbar = () => {
           <img className="w-[80px] h-[80px] sm:w-[100px] sm:h-[100px]" src={Logo} alt="logo" />
           <div>
             <h1 className="text-[18px] sm:text-[20px] font-bold">
-              Proekt Max-Story
+              Proekt Max-Stroy
             </h1>
             <p className="text-sm text-blue-500">Proektms.uz</p>
           </div>

@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 import bgimg from "../assets/image7-min.jpg";
 import SwiperComponent from '../components/SwiperComponent';
 
-const Home = () => {
+const HomePage = () => {
   return (
     <div
       className="
@@ -26,4 +26,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;

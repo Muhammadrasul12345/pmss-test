@@ -1,11 +1,11 @@
 import { createBrowserRouter } from "react-router-dom";
 import RootLayout from "../layouts/RootLayout";
-import Home from "../pages/home";
-import About from "../pages/About"
+import About from "../pages/About";
 import Tarkibiy from "../pages/Tarkibiy";
 import History from "../pages/History";
 import Hamkorlar from "../pages/Hamkorlar";
 import Aloqa from "../pages/Aloqa";
+import HomePage from "../pages/HomePage";
 
 export const routes = createBrowserRouter([
     {
@@ -14,7 +14,7 @@ export const routes = createBrowserRouter([
         children: [
             {
                 index: true,
-                element: <Home />
+                element: <HomePage />
             },
             {
                 path: "/korxona-haqida",
