@@ -1,0 +1,115 @@
+{
+   "navbar":{
+
+    "bosh_sahifa": "Home",
+    "korxona_haqida": "About us",
+    "tarkibiy_tuzilma": "Structural structure",
+    "korxona_tarixi": "Company history",
+    "hamkorlar": "Partners",
+    "aloqa": "Contact"
+    },
+
+    "header":{
+
+    "header_text": "Professional design services for transport infrastructure and communications",
+    "boglanish": "Contact",
+    "batafsil": "In detail"
+    },
+    
+    "showCase" : {
+    "yillik_tajriba": "Years of experience",
+    "loyihalar": "Projects",
+    "mutaxassislar": "Specialists",
+    "sifat_kafolati": "Quality assurance"
+    },
+
+    "services": {
+    "bizning_xiazmatlar": "Our services",
+    "service_1": "Design for transport infrastructure and communications",
+    "service_2": "Development of a feasibility study",
+    "service_3": "Exploration (geodesy, geology, hydrology)",
+    "service_4": "Detailed design",
+    "service_5": "Economic and financial analysis",
+    "service_6": "Construction control",
+    "service_7": "Project management services"
+    },
+   
+    "license": {
+
+    "litsenziyalngan": "Licensed enterprise",
+    "II_obyektlar_uchun": "For Category II facilities",
+    "litsenziya_raqami":"License number"
+    },
+    
+    "calendar":{
+
+    "kalendar":"Calendar",
+    "yanvar":"January",
+    "fevral":"February",
+    "mart":"March",
+    "aprel": "April",
+    "may":"May",
+    "iyun":"June",
+    "iyul":"July",
+    "avgust": "August",
+    "sentabr": "September",
+    "oktyabr": "October",
+    "noyabr": "November",
+    "dekabr":"December"
+    },
+
+    "footer": {
+      "footer_text": "Professional design services for transport infrastructure and communications",
+      "aloqa": "Contact",
+      "manzil": "Location",
+      "joylashuv": "Tashkent city, Yangihayot district, BUILDING 3, house 3, room 49",
+      "huquqlar_himoyalangan": "© 2021 PROEKT MAX-STROY LLC. All rights reserved."
+    },
+
+   "about": {
+     "about_korxona_haqida": "About us",
+     "title": "Project Max-Stroy LLC",
+     "text": "It occupies one of the leading positions among the design and survey organizations of road construction facilities in the republic.",
+     "services": "Services",
+     "yuridik_malumotlar": "Legal information",
+     "full_name": "Proekt Max-Stroy MCHJ",
+     "royhatga_olingan": "Recorded",
+     "litsenziya": "License",
+     "manzil": "Location",
+     "ofis_manzili": "Office address"
+    },
+
+   "aloqa": {
+    "aloqa": "Contact",
+     "boglaning": "Contact us",
+     "telefon_raqamlar": "Phone numbers"
+   },
+
+   "hamkorlar": {
+    "hamkorlar_text": "Partners",
+    "bizning_hamkorlar": "Our partners",
+    "hamkor_bolish": "To be a partner"
+   },
+
+   "histroy": {
+    "yil": "year",
+    "korxona_tashkili": "Establishment of a company",
+    "first_section": "On January 21, 2021, the limited liability company PROEKT MAX-STROY LLC was officially registered by the Yangihayot District Public Services Center.",
+    "Dekabr": "december",
+    "litsenziya_olish": "Obtaining a license",
+    "second_section": "On December 28, 2021, the Ministry of Construction of the Republic of Uzbekistan issued license number AJ-002018. The right to create design and estimate documentation for the construction, reconstruction and repair of highways for category II facilities was granted.",
+    "hozirgi_kunda": "Nowadays",
+    "faoliyat_davomi": "Activity continues",
+    "third_section": "Today, our company occupies one of the leading positions among the design and survey organizations of road construction facilities in the republic and continues to provide professional services."
+   },
+
+   "tarkibiy": {
+     "direktor": "Director",
+     "loyiha_muhandisi": "Project Chief Engineer",
+     "bosh_konsultant": "Chief Consultant (professor)",
+     "yetakchi_mutaxassis": "Leading expert",
+     "hujjat_raqamlashtiruvchi": "Document digitization specialist",
+     "bosh_mutaxassis": "Chief Specialist",
+     "mutaxassis": "Specialist"
+   }
+}

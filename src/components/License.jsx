@@ -1,34 +1,3 @@
-// import React from 'react';
-// import "../index.css"
-// import { Award } from 'lucide-react';
-
-// const License = () => {
-//     return (
-//         <div className='container'>
-//             <div className="wrapper2 bg-blue-300 mt-[40px] rounded-[10px]">
-//               <div className="top flex items-center gap-[20px] p-[10px]">
-//               <Award size={42} className='text-[blue]' />
-//               <div className="texts">
-//                 <h1 className='text-[30px]'>Litsenziyalangan korxona</h1>
-//                 <p className='text-gray-300 text-[20px]'>II toifadagi ob'ektlar uchun</p>
-//               </div>
-//             </div>
-//             <div className="card-ota p-[15px] flex flex-col gap-[20px]">
-//                 <div className="carddd w-[1150px] h-[50px] bg-white flex items-center gap-[20px] p-[15px] rounded-[10px]">
-//                     <p>Litsenziya raqami: <span className='font-light'>АЛ-002018</span></p>
-//                 </div>
-//                 <div className="carddd w-[1150px] h-[50px] bg-white flex items-center gap-[20px] p-[15px] rounded-[10px]">
-//                     <p>STIR: <span className='font-light'>308 106 564</span></p>
-//                 </div>
-//             </div>
-//             </div>          
-//         </div>
-//     );
-// }
-
-// export default License;
-
-
 import React from 'react';
 import "../index.css";
 import { Award } from 'lucide-react';

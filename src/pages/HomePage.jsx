@@ -6,6 +6,7 @@ import License from '../components/License';
 import Footer from '../components/Footer';
 import bgimg from "../assets/image7-min.jpg";
 import SwiperComponent from '../components/SwiperComponent';
+import Watch from '../components/Watch';
 
 const HomePage = () => {
   return (
@@ -21,6 +22,7 @@ const HomePage = () => {
       <ShowCase />
       <Services />
       <License />
+      <Watch />
       <Footer />
     </div>
   );

@@ -1,0 +1,112 @@
+{
+   "navbar":{
+    "bosh_sahifa": "Bosh sahifa",
+    "korxona_haqida": "Korxona haqida",
+    "tarkibiy_tuzilma": "Tarkibiy tuzilma",
+    "korxona_tarixi": "Korxona tarixi",
+    "hamkorlar": "Hamkorlar",
+    "aloqa": "Aloqa"
+    },
+
+    "header":{
+    "header_text": "Transport infratuzilmasi va kommunikatsiyalari uchun professional loyihalash xizmatlari",
+    "boglanish": "Bog'lanish",
+    "batafsil": "Batafsil"
+    },
+    
+    "showCase" : {
+    "yillik_tajriba": "Yillik tajriba",
+    "loyihalar": "Loyihalar",
+    "mutaxassislar": "Mutaxassislar",
+    "sifat_kafolati": "Sifat kafolati"
+    },
+
+    "services": {
+    "bizning_xiazmatlar": "Bizning xizmatlar",
+    "service_1": "Transport infratuzilmasi va kommunikatsiyalari uchun loyihalash",
+    "service_2": "Texnik-iqtisodiy asoslashni ishlab chiqish",
+    "service_3": "Izlanish (geodeziya, geologiya, gidrologiya)",
+    "service_4": "Batafsil loyihalash",
+    "service_5": "Iqtisodiy va moliyaviy tahlil",
+    "service_6": "Qurilish nazorati",
+    "service_7": "Loyihani boshqarish xizmatlari"
+    },
+   
+    "license": {
+    "litsenziyalngan": "Litsenziyalangan korxona",
+    "II_obyektlar_uchun": "II toifadagi ob'ektlar uchun",
+    "litsenziya_raqami":"Litsenziya raqami"
+    },
+    
+    "calendar":{
+    "kalendar":"Calendar",
+    "yanvar":"January",
+    "fevral":"February",
+    "mart":"March",
+    "aprel": "April",
+    "may":"May",
+    "iyun":"June",
+    "iyul":"July",
+    "avgust": "August",
+    "sentabr": "September",
+    "oktyabr": "October",
+    "noyabr": "November",
+    "dekabr":"December"
+    },
+
+    "footer": {
+      "footer_text": "Professional loyihalash xizmatlari va transport infratuzilmasi",
+      "aloqa": "Aloqa",
+      "manzil": "Manzil",
+      "joylashuv": "Toshkent shahri, Yangihayot tumani, 3-QURILISH, 3-uy, 49-xona",
+      "huquqlar_himoyalangan": "© 2021 PROEKT MAX-STROY MChJ. Barcha huquqlar himoyalangan."
+    },
+
+   "about": {
+     "about_korxona_haqida": "Korxona haqida",
+     "title": "Project Max-Stroy MCHJ",
+     "text": "respublika yo'l qurilish ob'ektlarining loyiha-qidiruv tashkilotlari orasida yetakchi o'rinlardan birini egallaydi.",
+     "services": "Xizmatlarimiz",
+     "yuridik_malumotlar": "Yuridik malumotlar",
+     "full_name": "Proekt Max-Stroy MCHJ",
+     "royhatga_olingan": "Royhatga olingan",
+     "litsenziya": "Litsenziya",
+     "manzil": "Maznil", 
+     "ofis_manzili": "Ofis manzili"
+    },
+
+   "aloqa": {
+    "aloqa": "Aloqa",
+     "boglaning": "Biz bilan bog'laning",
+     "telefon_raqamlar": "Telfon raqamlar"
+   },
+
+   "hamkorlar": {
+    "hamkorlar_text": "Hamkorlar",
+    "bizning_hamkorlar": "Bizning xamkorlarimiz",
+    "hamkor_bolish": "Hamkor bolish"
+   },
+
+   "histroy": {
+    "korxona_tarixi": "Korxona tarixi",
+    "yil": "yil",
+    "korxona_tashkili": "Korxona tashkil etilishi",
+    "first_section": "21-yanvar 2021 yilda PROEKT MAX-STROY MChJ mas'uliyati cheklangan jamiyati Yangihayot tumani davlat xizmatlari markazi tomonidan rasmiy ravishda ro'yxatdan o'tkazildi.",
+    "Dekabr": "dekabr",
+    "litsenziya_olish": "Litsenziya olish",
+    "second_section": "28-dekabr 2021 yilda O'zbekiston Respublikasi Qurilish vazirligi tomonidan AJ-002018 raqamli litsenziya berildi. II toifadagi ob'ektlar uchun avtomobil yo'llarini qurish, rekonstruksiya qilish va ta’mirlash bo‘yicha loyiha-smeta hujjatlarini yaratish huquqi berildi.",
+    "hozirgi_kunda": "Hozirgi kunda",
+    "faoliyat_davomi": "Faoliyat davom etmoqda",
+    "third_section": "Bugungi kunda korxonamiz respublika yo'l qurilishi ob'ektlarining loyiha-qidiruv tashkilotlari orasida yetakchi o'rinlardan birini egallaydi va professional xizmatlar ko'rsatishda davom etmoqda."
+   },
+
+   "tarkibiy": {
+     "direktor": "Direktor",
+     "loyiha_muhandisi": "Loyiha bosh muhandisi",
+     "bosh_konsultant": "Bosh konsultant (professor)",
+     "yetakchi_mutaxassis": "Yetakchi mutaxassis",
+     "hujjat_raqamlashtiruvchi": "Hujjatlarni raqamlashtirish bo'yicha mutaxassis",
+     "bosh_mutaxassis": "Bosh mutaxassis",
+     "mutaxassis": "Mutaxassis"
+   }
+}
